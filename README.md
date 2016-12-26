@@ -312,7 +312,7 @@
 ## Java
 1. [soot-Java optimization framework](https://github.com/Sable/soot)
 2. [基础算法](https://github.com/pedrovgs/Algorithms)
-3. [JD-GUI](https://github.com/jakob-grabner/Circle-Progress-View/blob/master/media/demo.gif)
+3. [JD-GUI](https://github.com/java-decompiler/jd-gui)
 
 ## C/C++
 1. [list-C语言list实现](https://github.com/clibs/list)
