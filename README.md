@@ -30,6 +30,8 @@
 9. [Drozer](https://github.com/mwrlabs/drozer)
 10. [Androguard](https://github.com/androguard/androguard)
 11. [Stetho](https://github.com/facebook/stetho)
+12. [RxPermissions](https://github.com/tbruyelle/RxPermissions)
+13. [RxBinding](https://github.com/JakeWharton/RxBinding)
 
 ## Android学习
 1. [LearningNotes](https://github.com/GeniusVJR/LearningNotes)
@@ -103,6 +105,11 @@
 45. [Antenna-A podcast manager for Android](https://github.com/AntennaPod/AntennaPod)
 46. [Auro-音乐播放器](Https://github.com/architjn/Auro)
 47. [安能饭否-客户端](https://github.com/fanfoudroid/fanfoudroid)
+48. [GeekNews-MVP+RxJava+Retrofit+Dagger2+Realm+Glide 阅读类App](https://github.com/codeestX/GeekNews)
+49. [Doua-开源的豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)
+50. [Bourbon-Dribble的客户端,手机,wear,TV版都有](https://github.com/hitherejoe/Bourbon)
+51. [咕咚翻译](https://github.com/maoruibin/TranslateApp)
+52. [简阅-功能比较丰富,基于MVP架构](https://github.com/chentao0707/SimplifyReader)
 
 
 ## Android　工具库
@@ -320,4 +327,3 @@
 
 ## 编程学习
 1. [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
-
