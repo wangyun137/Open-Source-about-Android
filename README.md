@@ -55,6 +55,13 @@
 6. [RaJava Joins](https://github.com/ReactiveX/RxJavaJoins)
 7. [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 
+## Reactive-Native
+1. [RN相关资源总结,非常全面](https://github.com/lizhangqu/CoreLink)
+
+## 资源整理
+1. [Android开发中的日常积累](https://github.com/lizhangqu/CoreLink)
+2. [Awesome Android](https://github.com/JStumpp/awesome-android)
+
 
 ## 开源App项目
 1. [Android-MarkDown-MarkDown解析器](https://github.com/zzhoujay/Markdown)
